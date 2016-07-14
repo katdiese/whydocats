@@ -9,7 +9,7 @@
   function pics() {
     return {
       restrict: 'E',
-      templateUrl: 'components/pics/pics.view.html',
+      templateUrl: 'components/catPics/pics.view.html',
       controller: 'PicsCtrl',
       controllerAs: 'vm',
       bindToController: true
